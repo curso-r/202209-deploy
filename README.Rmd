@@ -83,8 +83,8 @@ knitr::kable(
     script = CursoRopen:::list_github_files(params$main_repo, pasta) %>% stringr::str_subset("^arqs/[^/]+$"),
     link = paste0(
       "https://github.com/curso-r/",
-      params$turma,
-      "/blob/master/",
+      params$main_repo,
+      "/tree/master/",
       script
     )
   ) %>%
