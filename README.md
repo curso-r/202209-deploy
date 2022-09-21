@@ -3,35 +3,35 @@
 
 ## Informações importantes
 
-- Nosso blog: <https://curso-r.com/blog/>
+  - Nosso blog: <https://curso-r.com/blog/>
 
-- Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
-  [Zen do R](https://curso-r.github.io/zen-do-r/)
+  - Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
+    [Zen do R](https://curso-r.github.io/zen-do-r/)
 
 ## Dúvidas
 
 Fora do horário de aula ou monitoria:
 
-- perguntas gerais sobre o curso deverão ser feitas no Classroom.
+  - perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
-- perguntas sobre R, principalmente as que envolverem código, deverão
-  ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
+  - perguntas sobre R, principalmente as que envolverem código, deverão
+    ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Slides
 
 | slides                                                              | pdf                                                               |
-|:--------------------------------------------------------------------|:------------------------------------------------------------------|
+| :------------------------------------------------------------------ | :---------------------------------------------------------------- |
 | [index.html](https://curso-r.github.io/main-deploy/docs/index.html) | [index.pdf](https://curso-r.github.io/main-deploy/docs/index.pdf) |
 
 ## Scripts utilizados em aula
 
-| script                                                                                              |
-|:----------------------------------------------------------------------------------------------------|
-| [arqs/01_exemplo_api.R](https://github.com/curso-r/main-deploy/tree/master/arqs/01_exemplo_api.R)   |
-| [arqs/02_exemplo_docker](https://github.com/curso-r/main-deploy/tree/master/arqs/02_exemplo_docker) |
-| [arqs/03_exemplo_ghp](https://github.com/curso-r/main-deploy/tree/master/arqs/03_exemplo_ghp)       |
-| [arqs/04_exemplo_golem](https://github.com/curso-r/main-deploy/tree/master/arqs/04_exemplo_golem)   |
-| [arqs/05_exemplo_deploy](https://github.com/curso-r/main-deploy/tree/master/arqs/05_exemplo_deploy) |
+| script                                                                                                |
+| :---------------------------------------------------------------------------------------------------- |
+| [arqs/01\_exemplo\_api.R](https://github.com/curso-r/main-deploy/tree/master/arqs/01_exemplo_api.R)   |
+| [arqs/02\_exemplo\_docker](https://github.com/curso-r/main-deploy/tree/master/arqs/02_exemplo_docker) |
+| [arqs/03\_exemplo\_ghp](https://github.com/curso-r/main-deploy/tree/master/arqs/03_exemplo_ghp)       |
+| [arqs/04\_exemplo\_golem](https://github.com/curso-r/main-deploy/tree/master/arqs/04_exemplo_golem)   |
+| [arqs/05\_exemplo\_deploy](https://github.com/curso-r/main-deploy/tree/master/arqs/05_exemplo_deploy) |
 
 ## Material extra
 
@@ -40,7 +40,7 @@ quando tiramos dúvidas (não necessariamente são relacionadas com o
 conteúdo da aula).
 
 | Aula | Tema        | Descrição                                                                                      |
-|-----:|:------------|:-----------------------------------------------------------------------------------------------|
+| ---: | :---------- | :--------------------------------------------------------------------------------------------- |
 |    1 | Material    | [PokéAPI](https://pokeapi.co/docs/v2)                                                          |
 |    1 | Material    | [NASA Open APIs](https://api.nasa.gov/)                                                        |
 |    1 | Referência  | [Manual de uso do Plumber](https://www.rplumber.io/)                                           |
